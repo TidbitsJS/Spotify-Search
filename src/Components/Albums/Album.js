@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./album.css";
-import Card from "../Cards/Card";
+import top from "./AlbumData";
+import Top from "./Top";
 
 export class Album extends Component {
   render() {
@@ -10,10 +11,9 @@ export class Album extends Component {
           <p>Your top generes</p>
         </div>
         <div className="album-grid">
-          {/* <Card />
-          <Card />
-          <Card />
-          <Card /> */}
+          {top.map((album, index) => (
+            <Top data={album} key={index} />
+          ))}
         </div>
       </div>
     );
