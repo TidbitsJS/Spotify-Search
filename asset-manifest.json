@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Spotify-Search/static/css/main.4d5a4b0d.chunk.css",
+    "main.js": "/Spotify-Search/static/js/main.93960da4.chunk.js",
+    "main.js.map": "/Spotify-Search/static/js/main.93960da4.chunk.js.map",
+    "runtime-main.js": "/Spotify-Search/static/js/runtime-main.300da836.js",
+    "runtime-main.js.map": "/Spotify-Search/static/js/runtime-main.300da836.js.map",
+    "static/js/2.3e27b155.chunk.js": "/Spotify-Search/static/js/2.3e27b155.chunk.js",
+    "static/js/2.3e27b155.chunk.js.map": "/Spotify-Search/static/js/2.3e27b155.chunk.js.map",
+    "index.html": "/Spotify-Search/index.html",
+    "precache-manifest.c6af50ac35f8fef9cc606da01f139439.js": "/Spotify-Search/precache-manifest.c6af50ac35f8fef9cc606da01f139439.js",
+    "service-worker.js": "/Spotify-Search/service-worker.js",
+    "static/css/main.4d5a4b0d.chunk.css.map": "/Spotify-Search/static/css/main.4d5a4b0d.chunk.css.map",
+    "static/js/2.3e27b155.chunk.js.LICENSE.txt": "/Spotify-Search/static/js/2.3e27b155.chunk.js.LICENSE.txt",
+    "static/media/blues.jpeg": "/Spotify-Search/static/media/blues.dbc1313b.jpeg",
+    "static/media/charts.jpeg": "/Spotify-Search/static/media/charts.8dfabb9f.jpeg",
+    "static/media/chill.jpeg": "/Spotify-Search/static/media/chill.2e609e4f.jpeg",
+    "static/media/comedy.jpeg": "/Spotify-Search/static/media/comedy.7f5b2564.jpeg",
+    "static/media/focus.jpeg": "/Spotify-Search/static/media/focus.5f0dd902.jpeg",
+    "static/media/gaming.png": "/Spotify-Search/static/media/gaming.ebc6fe00.png",
+    "static/media/hiphop.jpeg": "/Spotify-Search/static/media/hiphop.50a0687a.jpeg",
+    "static/media/home.png": "/Spotify-Search/static/media/home.bfbf01ae.png",
+    "static/media/jazz.jpeg": "/Spotify-Search/static/media/jazz.dce83e88.jpeg",
+    "static/media/love.jpeg": "/Spotify-Search/static/media/love.5c569c94.jpeg",
+    "static/media/mush.jpeg": "/Spotify-Search/static/media/mush.9ecfac6a.jpeg",
+    "static/media/party.jpeg": "/Spotify-Search/static/media/party.b0c104cb.jpeg",
+    "static/media/punjabi.jpeg": "/Spotify-Search/static/media/punjabi.bd38c567.jpeg",
+    "static/media/telgu.jpeg": "/Spotify-Search/static/media/telgu.5dc4ee8e.jpeg",
+    "static/media/you.jpeg": "/Spotify-Search/static/media/you.11c52199.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.300da836.js",
+    "static/js/2.3e27b155.chunk.js",
+    "static/css/main.4d5a4b0d.chunk.css",
+    "static/js/main.93960da4.chunk.js"
+  ]
+}
