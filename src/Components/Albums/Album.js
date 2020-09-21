@@ -10,10 +10,10 @@ export class Album extends Component {
           <p>Your top generes</p>
         </div>
         <div className="album-grid">
+          {/* <Card />
           <Card />
           <Card />
-          <Card />
-          <Card />
+          <Card /> */}
         </div>
       </div>
     );

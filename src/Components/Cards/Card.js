@@ -4,12 +4,13 @@ import "./card.css";
 
 export class Card extends Component {
   render() {
+    const data = this.props.data;
     return (
       <div className="card-container">
-        <div className="text-block">Telgu</div>
+        <div className="text-block">{data.name}</div>
         <div className="image-block">
           <div className="image">
-            <img src={telgu} alt="telgu" />
+            <img src={data.img} alt="telgu" />
           </div>
         </div>
       </div>
