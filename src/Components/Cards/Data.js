@@ -46,12 +46,12 @@ const data = [
   {
     name: "hiphop",
     img: hiphop,
-    bgColor: "#708090",
+    bgColor: "#583759 ",
   },
   {
     name: "home",
     img: home,
-    bgColor: "#583759",
+    bgColor: " #202020",
   },
   {
     name: "jazz",

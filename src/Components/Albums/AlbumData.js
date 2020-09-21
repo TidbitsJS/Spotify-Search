@@ -5,14 +5,14 @@ import mush from "../../Spotify Images/mush.jpeg";
 
 const top = [
   {
-    name: "Focus",
-    img: focus,
-    bgColor: "#FF6347",
-  },
-  {
     name: "You",
     img: you,
     bgColor: "#87CEFA",
+  },
+  {
+    name: "Focus",
+    img: focus,
+    bgColor: "#708090 ",
   },
   {
     name: "Telgu",
@@ -22,7 +22,7 @@ const top = [
   {
     name: "Mush",
     img: mush,
-    bgColor: "lightcoral",
+    bgColor: "#FF6347",
   },
 ];
 

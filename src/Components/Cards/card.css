@@ -3,7 +3,7 @@
   width: 150px;
   height: 140px;
   display: flex;
-  border-radius: 12px;
+  border-radius: 10px;
   background-color: lightcoral;
   overflow: hidden;
   flex-direction: column;
