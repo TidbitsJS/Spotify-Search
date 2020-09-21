@@ -17,7 +17,7 @@ const top = [
   {
     name: "Telgu",
     img: telgu,
-    bgColor: "#98FF98",
+    bgColor: "#6AFB92",
   },
   {
     name: "Mush",
