@@ -45,3 +45,31 @@
   transform: rotate(30deg);
   box-shadow: -2px 2px 4px rgba(0, 0, 0, 0.4);
 }
+
+@media (min-width: 410px) {
+  .card-container {
+    width: 170px;
+    height: 160px;
+  }
+}
+
+@media (min-width: 770px) {
+  .card-container {
+    width: 200px;
+    height: 180px;
+  }
+}
+
+@media (min-width: 930px) {
+  .card-container {
+    width: 230px;
+    height: 190px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .card-container {
+    width: 300px;
+    height: 190px;
+  }
+}

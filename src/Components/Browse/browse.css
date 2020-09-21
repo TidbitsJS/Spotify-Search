@@ -13,3 +13,15 @@
   grid-template-columns: repeat(2, 1fr);
   place-items: center;
 }
+
+@media (min-width: 520px) {
+  .browse-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 800px) {
+  .browse-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
