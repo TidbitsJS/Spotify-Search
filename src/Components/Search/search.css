@@ -1,0 +1,21 @@
+.search-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.search-container h1 {
+  font-size: 3rem;
+  color: #fff;
+}
+
+.search-container input {
+  padding: 0.5rem 1rem;
+  width: 70vw;
+  text-align: center;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 2px solid white;
+}
