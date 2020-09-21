@@ -11,34 +11,42 @@ const data = [
   {
     name: "blues",
     img: blues,
+    bgColor: "#6495ED",
   },
   {
     name: "charts",
     img: charts,
+    bgColor: "#F9966B",
   },
   {
     name: "chill",
     img: chill,
+    bgColor: "#90EE90",
   },
   {
     name: "comedy",
     img: comedy,
+    bgColor: "#FFB6C1",
   },
   {
     name: "focus",
     img: focus,
+    bgColor: "#FF6347",
   },
   {
     name: "game",
     img: game,
+    bgColor: "#008080",
   },
   {
     name: "hiphop",
     img: hiphop,
+    bgColor: "#708090",
   },
   {
     name: "home",
     img: home,
+    bgColor: "#583759",
   },
 ];
 

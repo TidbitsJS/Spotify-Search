@@ -6,7 +6,7 @@ export class Card extends Component {
   render() {
     const data = this.props.data;
     return (
-      <div className="card-container">
+      <div className="card-container" style={{ backgroundColor: data.bgColor }}>
         <div className="text-block">{data.name}</div>
         <div className="image-block">
           <div className="image">
