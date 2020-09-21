@@ -1,8 +1,9 @@
 import React from "react";
 import "./App.css";
+import Body from "./Container/Body";
 
 function App() {
-  return <div></div>;
+  return <Body />;
 }
 
 export default App;
