@@ -12,6 +12,8 @@ export class Album extends Component {
         <div className="album-grid">
           <Card />
           <Card />
+          <Card />
+          <Card />
         </div>
       </div>
     );
