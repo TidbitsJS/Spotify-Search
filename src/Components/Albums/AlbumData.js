@@ -17,7 +17,7 @@ const top = [
   {
     name: "podcast",
     img: podcast,
-    bgColor: "#feb300",
+    bgColor: "#FFD063",
   },
   {
     name: "Mush",
