@@ -51,7 +51,7 @@ const data = [
   {
     name: "home",
     img: home,
-    bgColor: " #202020",
+    bgColor: "#C0C0C0",
   },
   {
     name: "jazz",
