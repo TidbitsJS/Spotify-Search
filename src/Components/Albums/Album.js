@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./album.css";
+import Card from "../Cards/Card";
 
 export class Album extends Component {
   render() {
@@ -8,7 +9,10 @@ export class Album extends Component {
         <div className="top-heading">
           <p>Your top generes</p>
         </div>
-        <div className="album-grid"></div>
+        <div className="album-grid">
+          <Card />
+          <Card />
+        </div>
       </div>
     );
   }

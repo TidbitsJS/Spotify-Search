@@ -6,3 +6,9 @@
   margin-left: 1rem;
   font-size: 1.3rem;
 }
+
+.album-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  place-items: center;
+}
