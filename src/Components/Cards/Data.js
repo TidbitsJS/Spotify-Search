@@ -6,6 +6,11 @@ import focus from "../../Spotify Images/focus.jpeg";
 import game from "../../Spotify Images/gaming.png";
 import hiphop from "../../Spotify Images/hiphop.jpeg";
 import home from "../../Spotify Images/home.png";
+import jazz from "../../Spotify Images/jazz.jpeg";
+import party from "../../Spotify Images/party.jpeg";
+import podcast from "../../Spotify Images/podcast.jpeg";
+import love from "../../Spotify Images/love.jpeg";
+import punjabi from "../../Spotify Images/punjabi.jpeg";
 
 const data = [
   {
@@ -21,7 +26,7 @@ const data = [
   {
     name: "chill",
     img: chill,
-    bgColor: "#90EE90",
+    bgColor: "#008080",
   },
   {
     name: "comedy",
@@ -36,7 +41,7 @@ const data = [
   {
     name: "game",
     img: game,
-    bgColor: "#008080",
+    bgColor: "#90EE90",
   },
   {
     name: "hiphop",
@@ -47,6 +52,31 @@ const data = [
     name: "home",
     img: home,
     bgColor: "#583759",
+  },
+  {
+    name: "jazz",
+    img: jazz,
+    bgColor: "#5cbdb9",
+  },
+  {
+    name: "party",
+    img: party,
+    bgColor: "#e1b382",
+  },
+  {
+    name: "podcast",
+    img: podcast,
+    bgColor: "#feb300",
+  },
+  {
+    name: "love",
+    img: love,
+    bgColor: "#ff3a22",
+  },
+  {
+    name: "punjabi",
+    img: punjabi,
+    bgColor: " #3d7c47",
   },
 ];
 
