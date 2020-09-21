@@ -1,0 +1,15 @@
+.browse-container {
+  color: #fff;
+  margin-top: 2.5rem;
+}
+
+.browse-container .browse-heading p {
+  margin-left: 1rem;
+  font-size: 1.5rem;
+}
+
+.browse-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  place-items: center;
+}
