@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import telgu from "../../Spotify Images/telgu.jpeg";
 import "./card.css";
 
 export class Card extends Component {
