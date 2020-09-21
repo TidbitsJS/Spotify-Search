@@ -8,7 +8,7 @@ import hiphop from "../../Spotify Images/hiphop.jpeg";
 import home from "../../Spotify Images/home.png";
 import jazz from "../../Spotify Images/jazz.jpeg";
 import party from "../../Spotify Images/party.jpeg";
-import podcast from "../../Spotify Images/podcast.jpeg";
+import telgu from "../../Spotify Images/telgu.jpeg";
 import love from "../../Spotify Images/love.jpeg";
 import punjabi from "../../Spotify Images/punjabi.jpeg";
 
@@ -64,9 +64,9 @@ const data = [
     bgColor: "#e1b382",
   },
   {
-    name: "podcast",
-    img: podcast,
-    bgColor: "#feb300",
+    name: "Telgu",
+    img: telgu,
+    bgColor: "darkorange",
   },
   {
     name: "love",

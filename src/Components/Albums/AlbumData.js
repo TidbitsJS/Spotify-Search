@@ -1,6 +1,6 @@
 import focus from "../../Spotify Images/focus.jpeg";
 import you from "../../Spotify Images/you.jpeg";
-import telgu from "../../Spotify Images/telgu.jpeg";
+import podcast from "../../Spotify Images/podcast.jpeg";
 import mush from "../../Spotify Images/mush.jpeg";
 
 const top = [
@@ -15,9 +15,9 @@ const top = [
     bgColor: "#708090 ",
   },
   {
-    name: "Telgu",
-    img: telgu,
-    bgColor: "#6AFB92",
+    name: "podcast",
+    img: podcast,
+    bgColor: "#feb300",
   },
   {
     name: "Mush",
